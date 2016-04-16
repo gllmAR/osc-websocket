@@ -12,8 +12,8 @@ We want to make a clone of the TouchOSC application with web technologies.
 
 ```
 
-(1)       Web application 
-                | 
+(1)       Web application
+                |
                JSON
                 |
                 v
@@ -44,7 +44,7 @@ We want to make a clone of the TouchOSC application with web technologies.
 - You can use the command ```cp config-sample.json config.json``` and edit ```config.json``` as you need to use custom settings. The web application (1) schema is in this file. If you run this command, ```config-sample.json``` will be used as a fall-back.
 - Run ```npm install``` to install the packages  
 - Run ```bower install``` to install bower components
-- Run ```gulp build``` to build
+- Run ```gulp``` to build
 - Run ```npm start``` to start the server
 
 ## Examples
